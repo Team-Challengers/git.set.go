@@ -1,5 +1,9 @@
+
+<!--EDIT starts here -->
+
+
 <h1 align="center">Hi 👋, I'm "YOUR_NAME"</h1>
-<h3 align="center">Student at "COLLEGE_NAME"MITS, Gwalior""🌟.</h3>
+<h3 align="center">Student at "COLLEGE_NAME"🌟.</h3>
 
 <br>
 
@@ -19,6 +23,14 @@
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
+
+<!--EDIT starts here -->
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -97,4 +109,3 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Adam-pw](https://github.com/Adam-pw)
