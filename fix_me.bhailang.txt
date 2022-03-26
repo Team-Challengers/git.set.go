@@ -1,19 +1,19 @@
-hi bhai
- bol bhai "Hello World";
- 
-  bhai ye hai a = 3;
-  bhai ye hai b = 0;
+#include<stdio.h>
+ void main()
+ { int a,b;
+ printf("hello world\n"); 
+  a = 3;
+  b = 0;
 
-  jab tak bhai (b < 5) {
-    bol bhai b;
+    while(b < 5) {
+    printf("%d",b);
 
-    agar bhai (b == 0) {
-      bol bhai "b is equal to a";
-    } nahi to bhai (b == a) {
-      bol bhai "b is equal to zero";
+    if (b == 0) {
+      printf("b is equal to a");
+    } else(b == a) {
+      printf("b is equal to zero");
     }
 
     b += 1;
   }
 
-bye bhai
