@@ -12,7 +12,7 @@ int main() {
   // sum of two numbers in stored in variable sumOfTwoNumbers
   product = first_number * cond_number;
 
-  // prints sum 
+  // prints sum jhgfghfhg
   cout << first_number << " + " <<  second_number << " = " << sum;     
 
   return 0;
