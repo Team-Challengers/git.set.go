@@ -8,9 +8,9 @@ hi bhai
     bol bhai b;
 
     agar bhai (b == 0) {
-      bol bhai "b is equal to a";
+      bol bhai "b is equal to 0";
     } nahi to bhai (b == a) {
-      bol bhai "b is equal to zero";
+      bol bhai "b is equal to 3";
     }
 
     b += 1;
