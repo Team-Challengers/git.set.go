@@ -7,7 +7,7 @@ b= int(input("Enter the second no: "))
 division= a-b
 
 # Square of first no.
-a = a+a
+a = a*a
 # Square of second no.
 b = b*b
 print("Division",division)
