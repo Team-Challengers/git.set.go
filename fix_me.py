@@ -4,10 +4,10 @@ print("Enter the two number")
 a= int(input("Enter the first no: "))
 b= int(input("Enter the second no: "))
 # Divide two numbers
-division= a-b
+division= a/b
 
 # Square of first no.
-a = a+a
+a = a^2
 # Square of second no.
-b = b*b
+b = b^2
 print("Division",division)
