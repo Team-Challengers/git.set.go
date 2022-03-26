@@ -12,7 +12,7 @@ int main() {
     sum = number1 - number2;      
 
     // Multiply number 1 and number 2
-    multi = number1 * number1
+    multi = number1 * number1;
     
     printf("%d + %d = %d", number1, number2, sum);
     return 0;
