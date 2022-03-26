@@ -9,11 +9,11 @@ hi bhai
 
     agar bhai (b == 0) {
       bol bhai "b is equal to a";
-    } nahi to bhai (b == a) {
+    } nahi to bhai (b =/= a) {
       bol bhai "b is equal to zero";
     }
 
-    b += 1;
+    b += 0;
   }
 
 bye bhai
