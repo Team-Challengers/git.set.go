@@ -1,14 +1,14 @@
 hi bhai
  bol bhai "Hello World";
  
-  bhai ye hai a = 3;
-  bhai ye hai b = 0;
+  int a = 3;
+  int b = 0;
 
-  jab tak bhai (b < 5) {
+  while (b < 5) {
     bol bhai b;
 
-    agar bhai (b == 0) {
-      bol bhai "b is equal to a";
+    if (b == 0) {
+      printf "b is equal to a";
     } nahi to bhai (b == a) {
       bol bhai "b is equal to zero";
     }
@@ -16,4 +16,4 @@ hi bhai
     b += 1;
   }
 
-bye bhai
+
