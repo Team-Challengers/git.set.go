@@ -8,9 +8,9 @@
     while(b < 5) {
     printf("%d",b);
 
-    if (b == 0) {
+    if (b == a) {
       printf("b is equal to a");
-    } else(b == a) {
+    } else(b == 0) {
       printf("b is equal to zero");
     }
 
